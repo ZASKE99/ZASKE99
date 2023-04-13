@@ -3,7 +3,7 @@
 <h3 align="center">Y soy un Dev Front-End en Formación ❤️✨</h3>
 <img align="center" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy-downsized.gif" width="200" >
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=zaske99&label=Profile%20views&color=0e75b6&style=flat" alt="zaske99" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=zaske99&label=Visitas%20al Perfil&color=BF1313&style=flat" alt="zaske99" /> </p>
 
  👨‍💻 Mí Portafolio aquí 👉🏻 [https://zaske99.github.io/Portafolio-v2/](https://zaske99.github.io/Portafolio-v2/)
 
